@@ -6,6 +6,11 @@ The set up is made with a Public App [Storefront Access Token](https://help.shop
 
 Test store has several pages created on Shopify side.
 
+```
+https://storefrontify.com/pages/test-page
+https://storefrontify.com/pages/second-test-page
+```
+
 To reproduce the issue please clone the repo, install the dependencies and run gatsby.
 
 ```
